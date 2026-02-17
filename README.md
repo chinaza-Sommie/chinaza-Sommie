@@ -36,7 +36,7 @@ Fun Fact:
 
 - I dont like pop-corn
 - I love Art
-- **Hobbies:** Crotchetting & Art
+- **Hobbies:** crotchetting & art
 
 ---
 ⭐️ Feel free to check out my repositories and connect with me!
