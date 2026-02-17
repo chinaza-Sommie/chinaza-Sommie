@@ -25,7 +25,7 @@ Projects I've worked on:
 - [Checkout Simulator](https://github.com/chinaza-Sommie/checkout_system) : A simulation of a checkout system
 - [Gemini AI Chatbot](https://github.com/chinaza-Sommie/gemini_ai_chatbot) : Gemini AI Chatbot built to embody any fictional character
 - [AI MenopauseCoach](https://github.com/chinaza-Sommie/menopauseCoach) : AI Menopause coach that provided supplements suggestions for women going through menopause
-  
+
 ---
 
 Fun Fact
