@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Chinaza Chukwunweike
+## 👋 Hi, I'm Chinaza Chukwunweike
 
 🚀 **Software Engineer** passionate about building impactful software solutions.
 
