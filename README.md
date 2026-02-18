@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Chinaza and I am a **Software Engineer** passionate about building impactful software solutions. I'm passionate about all thigs **AI**, **Frontend**, **Backend**, and **Cloud**
+I'm Chinaza and I am a **Software Engineer** passionate about building impactful software solutions. I'm also passionate about all thigs **AI**, **Frontend**, **Backend**, and **Cloud**
 
 ---
 
