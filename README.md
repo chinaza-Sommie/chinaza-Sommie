@@ -33,7 +33,6 @@ Projects I've worked on:
 ---
 
 Fun Fact:
-
 - I dont like pop-corn
 - I love Art
 - **Hobbies:** crotchetting & art
